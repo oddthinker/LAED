@@ -2,5 +2,5 @@
 
 LocalAtomicEnvironment
 
-The local atomic descriptor is obtained
+The local atomic environment descriptor is obtained
 
