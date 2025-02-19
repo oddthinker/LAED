@@ -4,6 +4,8 @@ LocalAtomicEnvironmentDescriptor
 
 The local atomic environment descriptor is obtained
 
+![github-Local atomic environments](https://github.com/user-attachments/assets/6c2fd741-ca37-42d3-8e29-03aa313e1bbf)
+
 
 If you find LAED useful in your research, please consider citing our paper:
 
