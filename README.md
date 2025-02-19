@@ -4,6 +4,9 @@ LocalAtomicEnvironmentDescriptor
 
 The local atomic environment descriptor is obtained
 
+![Uploading github-Local atomic environments.jpg…]()
+
+
 If you find LAED useful in your research, please consider citing our paper:
 
 Junpeng Yuan, Xianglong Liu, Min Li, and Hui Wang. "Design of nanoporous materials for trace removal of benzene through high throughput screening." Separation and Purification Technology 2023, 324, 124558.
